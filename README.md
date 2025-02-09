@@ -34,6 +34,8 @@ This command scans all supported DNS ports across the provided IP addresses or C
 
 3. Run the tool:
 
+![Screenshot_20250209-070404_Termux](https://github.com/user-attachments/assets/2d70d68a-3eff-49d0-8123-eb2ece5db88a)
+
 
    ```bash
    python DNSReaper.py [IP_INPUT] [OPTIONS]
@@ -143,4 +145,26 @@ Check a single IP for DNS availability over TCP 53:
 This tool is perfect for penetration testers, network administrators, and anyone involved in cybersecurity who needs to assess DNS server availability and security across various protocols.
 
 ☠️ Stay anonymous. Stay safe. MrPYTHON ☠️
+
+```bash
+Telegram 🏴‍☠️ :-
+```
+https://t.me/PYT_HON3
+
+```bash
+Welcome to our fun and dark gathering. We are happy to have you join our channel to benefit and not to mention more. Thank you!🏴‍☠️
+```
+```bash
+Official Developer ⚙ :- 
+MrPYTHON 🇾🇪
+```
+All my calculations :-
+
+https://mrpython3.carrd.co/
+
+My private id Tgileram to communicate :-
+
+https://t.me/FPI_711
+
+
 
