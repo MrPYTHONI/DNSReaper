@@ -21,21 +21,26 @@ This command scans all supported DNS ports across the provided IP addresses or C
 
 1. Clone the repository:
 
-   ```bash 
+ ```bash 
    git clone https://github.com/MrPYTHONI/DNSReaper.git
-   cd DNSReaper```
+   cd DNSReaper
+   ```
 
 2. Install the required dependencies:
 
-   ```bash
-   pip install -r requirements.txt ```
+```bash
+   pip install -r requirements.txt
+```
+
+   
 3. Run the tool:
 
 ![Screenshot_20250209-070404_Termux](https://github.com/user-attachments/assets/2d70d68a-3eff-49d0-8123-eb2ece5db88a)
 
 
-   ```bash
-   python DNSReaper.py [IP_INPUT] [OPTIONS] ```
+```bash
+   python DNSReaper.py [IP_INPUT] [OPTIONS]
+```
 
 ```bash
    python DNSReaper.py -f ipv4testdns.txt -scan
