@@ -41,6 +41,13 @@ This command scans all supported DNS ports across the provided IP addresses or C
 ```bash
    python DNSReaper.py [IP_INPUT] [OPTIONS]
 ```
+Replace [IP_INPUT] with the target IP address or range. Additional options can be specified:
+
+```-f, --file:``` File containing CIDR ranges or IPs (default is ipv4testdns.txt)
+```-scan, --scan:``` Scan all supported ports (UDP 53, TCP 53, DNS over HTTPS, DNS over TLS)
+```-rn, --range:``` Check a single IP, CIDR range, or a file
+```-p, --port:``` Specify port for scanning (default is UDP 53)
+```-o, --output:``` File to save working DNS servers (optional)
 
 ```bash
    python DNSReaper.py -f ipv4testdns.txt -scan
