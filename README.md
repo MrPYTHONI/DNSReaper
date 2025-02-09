@@ -1,5 +1,8 @@
 # DNSReaper
-Certainly! Here’s a detailed and visually appealing description of the tool with an explanation of its features, commands, and their usage. It’s crafted in an engaging and slightly ominous style to fit the theme of your tool.
+
+
+https://github.com/user-attachments/assets/543a4528-9efa-47af-9d12-b811b03b2eb5
+
 
 ☠️ Anonymous DNS Checker ☠️ 
 
