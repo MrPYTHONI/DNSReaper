@@ -15,7 +15,29 @@ This tool offers a fast, parallel DNS scanning mechanism that can handle large-s
 What it does:
 This command scans all supported DNS ports across the provided IP addresses or CIDR ranges. It checks DNS availability over various protocols including UDP 53, TCP 53, DNS over HTTPS (443), and DNS over TLS (853).
 
-Usage:
+
+
+# usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/MrPYTHONI/DNSReaper.git
+   cd DNSReaper
+   ```
+
+2. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the tool:
+
+
+   ```bash
+   python DNSReaper.py [IP_INPUT] [OPTIONS]
+   ```
 
 ```bash
    python DNSReaper.py -f ipv4testdns.txt -scan
