@@ -29,7 +29,6 @@ This command scans all supported DNS ports across the provided IP addresses or C
 
    ```bash
    pip install -r requirements.txt ```
-
 3. Run the tool:
 
 ![Screenshot_20250209-070404_Termux](https://github.com/user-attachments/assets/2d70d68a-3eff-49d0-8123-eb2ece5db88a)
